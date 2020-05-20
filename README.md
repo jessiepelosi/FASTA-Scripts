@@ -1,9 +1,9 @@
-# misc_code
+# FASTA Scripts and Tools 
 
-This is a repository of miscellaneous code developed by Jessie Pelosi. 
+This is a repository of code for basic work with FASTA files.  
 
 Current contents include:
 
-- get_read_length.py 
+- get_read_length.py  
 
-Last modified 17 April, 2020 
+Last modified 20 May, 2020 
